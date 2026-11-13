@@ -51,8 +51,8 @@ Previsão e análise de série temporal cambial
 Abordagem de uma técnica para modelagem do comportamento da taxa de câmbio em diferentes níveis de um choque econômico.
 
 - Abordagem: Modelo de Reversão à média Ornstein-Uhlenbeck; Cadeia de Markov; Simulação Monte-Carlo
-- Avaliação: Estudo Especial
-- Resultado: 
+- Avaliação: Estudo Especial BC nº 25/2018
+- Resultado: Os resultados foram 100% favoráveis para o modelo em choques de até 10%, via simulação computacional.
 
 ![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB)
 
@@ -64,11 +64,11 @@ Abordagem de uma técnica para modelagem do comportamento da taxa de câmbio em 
 <td width="50%" valign="top">
 
 ### Compressão de Imagens com SVD
-**Álgebra linear aplicada**
+*Álgebra linear Computacional*
 
-Compressão de imagens por decomposição em valores singulares, avaliando a relação entre o número de valores singulares mantidos e a qualidade da reconstrução.
+Estudo da aplicação da SVD em imagens digitais, comprimindo dados e preservando qualidade visual.
 
-- Implementação em Julia
+- SVD é uma ferramenta onde o custo/benefício computacional é alto
 - Análise de taxa de compressão versus erro de reconstrução
 - Comparação visual entre original e versões comprimidas
 
