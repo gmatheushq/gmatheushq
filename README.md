@@ -1,16 +1,157 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**gmatheushq/gmatheushq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Matheus Henrique
 
-Here are some ideas to get you started:
+**Matemática Aplicada  |  Modelagem Quantitativa  |  Ciência de Dados**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Modelos matemáticos e estatísticos aplicados a problemas reais de crédito, finanças e processamento de dados.
+
+<br>
+
+<a href="https://lattes.cnpq.br/6837885816567736"><img src="https://img.shields.io/badge/Lattes-Curr%C3%ADculo-1F6FEB?style=for-the-badge&labelColor=0D1117" alt="Lattes"/></a>
+<a href="https://www.linkedin.com/in/SEU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-Contato-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/></a>
+<a href="mailto:SEU-EMAIL"><img src="https://img.shields.io/badge/E--mail-Contato-8B949E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="E-mail"/></a>
+
+</div>
+
+---
+
+## Sobre
+
+Graduando em **[CURSO]** na **[INSTITUIÇÃO]**, com interesse em modelagem de risco, séries temporais e métodos numéricos. Meu trabalho combina fundamentação matemática com implementação em código reproduzível, de notebooks exploratórios a bibliotecas e APIs.
+
+Atualmente:
+
+- Estudando **[tema 1, ex.: séries temporais e previsão]**
+- Desenvolvendo **[tema 2, ex.: modelos de score e validação de risco de crédito]**
+- Em busca de **[objetivo, ex.: estágio ou posição em dados, risco ou finanças quantitativas]**
+
+---
+
+## Projetos selecionados
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### CreditRisk
+**Modelagem de risco de crédito**
+
+Análise e modelagem de inadimplência a partir de dados de clientes. *[Descreva em uma frase: base de dados, variáveis e objetivo.]*
+
+- Abordagem: **[ex.: regressão logística, árvores, gradient boosting]**
+- Validação: **[ex.: AUC, KS, validação cruzada]**
+- Resultado: **[ex.: AUC de 0,85 no conjunto de teste]**
+
+![Jupyter](https://img.shields.io/badge/Jupyter-0D1117?style=flat-square&logo=jupyter&logoColor=F37626)
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB)
+
+[Ver repositório](https://github.com/gmatheushq/CreditRisk)
+
+</td>
+<td width="50%" valign="top">
+
+### Modelagem de Taxa de Câmbio
+**Previsão e análise de série temporal**
+
+Modelagem da taxa de câmbio com foco em **[ex.: previsão de curto prazo / volatilidade]**.
+
+- Abordagem: **[ex.: ARIMA, GARCH, regressão]**
+- Avaliação: **[ex.: RMSE, MAPE em janela fora da amostra]**
+- Resultado: **[principal conclusão]**
+
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB)
+
+[Ver repositório](https://github.com/gmatheushq/modelagem_tx_cambio)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Compressão de Imagens com SVD
+**Álgebra linear aplicada**
+
+Compressão de imagens por decomposição em valores singulares, avaliando a relação entre o número de valores singulares mantidos e a qualidade da reconstrução.
+
+- Implementação em Julia
+- Análise de taxa de compressão versus erro de reconstrução
+- Comparação visual entre original e versões comprimidas
+
+![Julia](https://img.shields.io/badge/Julia-0D1117?style=flat-square&logo=julia&logoColor=9558B2)
+
+[Ver repositório](https://github.com/gmatheushq/ImageCompression-SVD)
+
+</td>
+<td width="50%" valign="top">
+
+### novena-api
+**API em JavaScript**
+
+*[Descreva o que a API faz, para quem e como foi estruturada.]*
+
+- Stack: **[ex.: Node.js, Express, banco de dados]**
+- Destaques: **[ex.: autenticação, testes, documentação]**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
+
+[Ver repositório](https://github.com/gmatheushq/novena-api)
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>Outros repositórios</b></summary>
+
+<br>
+
+- [Atos29-lib](https://github.com/gmatheushq/Atos29-lib) — *[descrição]*
+- [cobrinhaAI](https://github.com/gmatheushq/cobrinhaAI) — *[descrição]*
+
+Lista completa: [github.com/gmatheushq?tab=repositories](https://github.com/gmatheushq?tab=repositories)
+
+</details>
+
+---
+
+## Formação e pesquisa
+
+| Período | Atividade | Instituição |
+|---|---|---|
+| [ANO – ANO] | [Graduação em CURSO] | [INSTITUIÇÃO] |
+| [ANO – ANO] | [Iniciação científica / projeto de pesquisa] | [INSTITUIÇÃO] |
+| [ANO] | [Curso ou certificação, com carga horária] | [ENTIDADE] |
+
+Produção acadêmica completa e detalhada no [Currículo Lattes](https://lattes.cnpq.br/6837885816567736).
+
+---
+
+## Competências
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,julia,js,git,github,vscode&theme=dark" alt="Tecnologias"/>
+
+</div>
+
+<br>
+
+| Área | Ferramentas e métodos |
+|---|---|
+| Linguagens | Python, Julia, JavaScript |
+| Análise de dados | Jupyter, NumPy, pandas, scikit-learn *(ajuste ao que você usa)* |
+| Matemática e estatística | Álgebra linear (SVD), séries temporais, modelagem de risco, probabilidade |
+| Engenharia | Git, APIs REST, versionamento e documentação |
+
+---
+
+## Contato
+
+Aberto a oportunidades, colaborações em projetos e conversas sobre modelagem e dados.
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/SEU-USUARIO">LinkedIn</a>  ·  <a href="mailto:SEU-EMAIL">E-mail</a>  ·  <a href="https://lattes.cnpq.br/6837885816567736">Lattes</a>
+
+</div>
