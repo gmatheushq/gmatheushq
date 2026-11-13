@@ -8,11 +8,7 @@ Só para deixar aqui uns resultados de litros de água gastos com algumas LLM's
 
 <br>
 
-<a href="https://lattes.cnpq.br/6837885816567736"><img src="https://img.shields.io/badge/Lattes-Curr%C3%ADculo-1F6FEB?style=for-the-badge&labelColor=0D1117" alt="Lattes"/></a>
-<a href="https://www.linkedin.com/in/SEU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-Contato-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/></a>
-<a href="mailto:SEU-EMAIL"><img src="https://img.shields.io/badge/E--mail-Contato-8B949E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="E-mail"/></a>
 
-</div>
 
 ---
 
@@ -122,11 +118,6 @@ Produção acadêmica completa e detalhada no [Currículo Lattes](https://lattes
 
 
 <br>
-
-
----
-
-## Contato
 
 <div align="center">
 
