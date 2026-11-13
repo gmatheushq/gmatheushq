@@ -18,13 +18,7 @@ Modelos matemáticos e estatísticos aplicados a problemas reais de crédito, fi
 
 ## Sobre
 
-Graduando em **[CURSO]** na **[INSTITUIÇÃO]**, com interesse em modelagem de risco, séries temporais e métodos numéricos. Meu trabalho combina fundamentação matemática com implementação em código reproduzível, de notebooks exploratórios a bibliotecas e APIs.
-
-Atualmente:
-
-- Estudando **[tema 1, ex.: séries temporais e previsão]**
-- Desenvolvendo **[tema 2, ex.: modelos de score e validação de risco de crédito]**
-- Em busca de **[objetivo, ex.: estágio ou posição em dados, risco ou finanças quantitativas]**
+Graduando em Matemática Aplicada e Computacional pela Universidade Federal de Goiás, com interesse em Modelagem Matemática/Estatística, Economia Matemática e Sistemas Dinâmicos. As vezes rabiscos uns códigos, faço umas contas e erro matemática básica.
 
 ---
 
@@ -35,13 +29,13 @@ Atualmente:
 <td width="50%" valign="top">
 
 ### CreditRisk
-**Modelagem de risco de crédito**
+**Análise de Risco de Crédito**
 
-Análise e modelagem de inadimplência a partir de dados de clientes. *[Descreva em uma frase: base de dados, variáveis e objetivo.]*
+Análise e modelagem de inadimplência a partir de dados de clientes e transações. 
 
-- Abordagem: **[ex.: regressão logística, árvores, gradient boosting]**
-- Validação: **[ex.: AUC, KS, validação cruzada]**
-- Resultado: **[ex.: AUC de 0,85 no conjunto de teste]**
+- Abordagem: Regressão logística e Teoria dos Conjuntos Fuzzy
+- Validação: Validação cruzada e literatura
+- Resultado: em andamento
 
 ![Jupyter](https://img.shields.io/badge/Jupyter-0D1117?style=flat-square&logo=jupyter&logoColor=F37626)
 ![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB)
@@ -52,13 +46,13 @@ Análise e modelagem de inadimplência a partir de dados de clientes. *[Descreva
 <td width="50%" valign="top">
 
 ### Modelagem de Taxa de Câmbio
-**Previsão e análise de série temporal**
+Previsão e análise de série temporal cambial
 
-Modelagem da taxa de câmbio com foco em **[ex.: previsão de curto prazo / volatilidade]**.
+Abordagem de uma técnica para modelagem do comportamento da taxa de câmbio em diferentes níveis de um choque econômico.
 
-- Abordagem: **[ex.: ARIMA, GARCH, regressão]**
-- Avaliação: **[ex.: RMSE, MAPE em janela fora da amostra]**
-- Resultado: **[principal conclusão]**
+- Abordagem: Modelo de Reversão à média Ornstein-Uhlenbeck; Cadeia de Markov; Simulação Monte-Carlo
+- Avaliação: Estudo Especial
+- Resultado: 
 
 ![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB)
 
