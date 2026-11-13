@@ -29,7 +29,7 @@ Graduando em Matemática Aplicada e Computacional pela Universidade Federal de G
 <td width="50%" valign="top">
 
 ### CreditRisk
-**Análise de Risco de Crédito**
+*Análise de Risco de Crédito*
 
 Análise e modelagem de inadimplência a partir de dados de clientes e transações. 
 
@@ -46,7 +46,7 @@ Análise e modelagem de inadimplência a partir de dados de clientes e transaç�
 <td width="50%" valign="top">
 
 ### Modelagem de Taxa de Câmbio
-Previsão e análise de série temporal cambial
+*Previsão e análise de série temporal cambial*
 
 Abordagem de uma técnica para modelagem do comportamento da taxa de câmbio em diferentes níveis de um choque econômico.
 
@@ -80,7 +80,7 @@ Estudo da aplicação da SVD em imagens digitais, comprimindo dados e preservand
 <td width="50%" valign="top">
 
 ### Atos29-lib
-*App*
+*Aplicativo*
 
 lib de um app feito no flutter, direcionado para o público católico, a ideia é para ser uma rede social para um grupo especifico onde aborda, além da nova proposta social, ferramentas presentes em outros apps, tais como novenas, liturgia diária, agenda, rotina guiada entre outros.
 
@@ -130,21 +130,13 @@ Produção acadêmica completa e detalhada no [Currículo Lattes](https://lattes
 
 <br>
 
-| Área | Ferramentas e métodos |
-|---|---|
-| Linguagens | Python, Julia, JavaScript |
-| Análise de dados | Jupyter, NumPy, pandas, scikit-learn *(ajuste ao que você usa)* |
-| Matemática e estatística | Álgebra linear (SVD), séries temporais, modelagem de risco, probabilidade |
-| Engenharia | Git, APIs REST, versionamento e documentação |
 
 ---
 
 ## Contato
 
-Aberto a oportunidades, colaborações em projetos e conversas sobre modelagem e dados.
-
 <div align="center">
 
-<a href="https://www.linkedin.com/in/SEU-USUARIO">LinkedIn</a>  ·  <a href="mailto:SEU-EMAIL">E-mail</a>  ·  <a href="https://lattes.cnpq.br/6837885816567736">Lattes</a>
+<a href="https://www.linkedin.com/in/matheus-henrique-7026072aa/">LinkedIn</a>  ·  <a href="mailto:SEU-EMAIL">matheusemog271@gmail.com</a>  ·  <a href="https://lattes.cnpq.br/6837885816567736">Lattes</a>
 
 </div>
