@@ -106,7 +106,7 @@ Lista completa: [github.com/gmatheushq?tab=repositories](https://github.com/gmat
 
 ## Formação e pesquisa
 
-| Período | Atividade | Instituição |
+|  Período  | Atividade | Instituição |
 |---|---|---|
 | 2024 – Atual | Graduação em Matemática Aplicada e Computacional | UFG |
 | 2026 – Atual | PIBIC(CNPq) - Análise de Crédito, Tomada de Decisão e Incerteza Inerente | UFG |
