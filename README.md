@@ -69,9 +69,9 @@ Abordagem de uma técnica para modelagem do comportamento da taxa de câmbio em 
 Estudo da aplicação da SVD em imagens digitais, comprimindo dados e preservando qualidade visual.
 
 - SVD é uma ferramenta onde o custo/benefício computacional é alto
-- Análise de taxa de compressão versus erro de reconstrução
-- Comparação visual entre original e versões comprimidas
-
+- Existe uma faixa onde a variação da qualidade visual (PSNR) é lenta, mas a compressão é linear, é onde há gamho
+- É notório que existem ferramentas teóricas a serem desenvolvidas ao favor da SVD
+  
 ![Julia](https://img.shields.io/badge/Julia-0D1117?style=flat-square&logo=julia&logoColor=9558B2)
 
 [Ver repositório](https://github.com/gmatheushq/ImageCompression-SVD)
