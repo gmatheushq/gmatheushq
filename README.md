@@ -109,9 +109,9 @@ Lista completa: [github.com/gmatheushq?tab=repositories](https://github.com/gmat
 | Período | Atividade | Instituição |
 |---|---|---|
 | 2024 – Atual | Graduação em Matemática Aplicada e Computacional | UFG |
-| 2026 – Atual | PIBIC(CNPq)/Análise de Crédito, Tomada de Decisão e Incerteza Inerente | UFG |
-| 2026 – Atual | PIBIC/Análise de conjuntos invariantes em sistemas dinâmicos com suporte de métodos computacionais | UFG |
-| 2025 – 2026 | PIBIC(CNPq)/Compressão de Imagens via Decomposição em Valores Singulares (SVD) | UFG |
+| 2026 – Atual | PIBIC(CNPq) - Análise de Crédito, Tomada de Decisão e Incerteza Inerente | UFG |
+| 2026 – Atual | PIBIC - Análise de conjuntos invariantes em sistemas dinâmicos com suporte de métodos computacionais | UFG |
+| 2025 – 2026 | PIBIC(CNPq) - Compressão de Imagens via Decomposição em Valores Singulares (SVD) | UFG |
 
 Produção acadêmica completa e detalhada no [Currículo Lattes](https://lattes.cnpq.br/6837885816567736).
 
