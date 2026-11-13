@@ -4,7 +4,7 @@
 
 **Matemática Aplicada  |  Modelagem  |  Ciência de Dados**
 
-Só para deixar aqui uns litros de água gastos com algumas LLM's.
+Só para deixar aqui uns resultados de litros de água gastos com algumas LLM's
 
 <br>
 
