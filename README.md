@@ -79,17 +79,15 @@ Estudo da aplicação da SVD em imagens digitais, comprimindo dados e preservand
 </td>
 <td width="50%" valign="top">
 
-### novena-api
-**API em JavaScript**
+### Atos29-lib
+*App*
 
-*[Descreva o que a API faz, para quem e como foi estruturada.]*
+lib de um app feito no flutter, direcionado para o público católico, a ideia é para ser uma rede social para um grupo especifico onde aborda, além da nova proposta social, ferramentas presentes em outros apps, tais como novenas, liturgia diária, agenda, rotina guiada entre outros.
 
-- Stack: **[ex.: Node.js, Express, banco de dados]**
-- Destaques: **[ex.: autenticação, testes, documentação]**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Dart](https://img.shields.io/badge/Dart-0D1117?style=flat-square&logo=dart&logoColor=0175C2)
 
-[Ver repositório](https://github.com/gmatheushq/novena-api)
+[Ver repositório](https://github.com/gmatheushq/Atos29-lib)
 
 </td>
 </tr>
@@ -100,8 +98,9 @@ Estudo da aplicação da SVD em imagens digitais, comprimindo dados e preservand
 
 <br>
 
-- [Atos29-lib](https://github.com/gmatheushq/Atos29-lib) — *[descrição]*
-- [cobrinhaAI](https://github.com/gmatheushq/cobrinhaAI) — *[descrição]*
+- [novena-api](https://github.com/gmatheushq/novena-api) — *API de novenas*
+- [oracoes-api](https://github.com/gmatheushq/oracoes-api) — *API de orações*
+- [cobrinhaAI](https://github.com/gmatheushq/cobrinhaAI) — *RandomForest no Jogo da Cobrinha*
 
 Lista completa: [github.com/gmatheushq?tab=repositories](https://github.com/gmatheushq?tab=repositories)
 
@@ -113,9 +112,9 @@ Lista completa: [github.com/gmatheushq?tab=repositories](https://github.com/gmat
 
 | Período | Atividade | Instituição |
 |---|---|---|
-| [ANO – ANO] | [Graduação em CURSO] | [INSTITUIÇÃO] |
-| [ANO – ANO] | [Iniciação científica / projeto de pesquisa] | [INSTITUIÇÃO] |
-| [ANO] | [Curso ou certificação, com carga horária] | [ENTIDADE] |
+| 2024 – Atual | Graduação em Matemática Aplicada e Computacional | UFG |
+| 2026 – Atual] | PIBIC(CNPq)/Análise de Crédito, Tomada de Decisão e Incerteza Inerente | UFG |
+| 2025 – 2026 | PIBIC(CNPq)/Compressão de Imagens via Decomposição em Valores Singulares (SVD) | UFG |
 
 Produção acadêmica completa e detalhada no [Currículo Lattes](https://lattes.cnpq.br/6837885816567736).
 
