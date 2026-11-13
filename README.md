@@ -2,9 +2,9 @@
 
 # Matheus Henrique
 
-**Matemática Aplicada  |  Modelagem Quantitativa  |  Ciência de Dados**
+**Matemática Aplicada  |  Modelagem  |  Ciência de Dados**
 
-Modelos matemáticos e estatísticos aplicados a problemas reais de crédito, finanças e processamento de dados.
+Só para deixar.
 
 <br>
 
@@ -113,20 +113,13 @@ Lista completa: [github.com/gmatheushq?tab=repositories](https://github.com/gmat
 | Período | Atividade | Instituição |
 |---|---|---|
 | 2024 – Atual | Graduação em Matemática Aplicada e Computacional | UFG |
-| 2026 – Atual] | PIBIC(CNPq)/Análise de Crédito, Tomada de Decisão e Incerteza Inerente | UFG |
+| 2026 – Atual | PIBIC(CNPq)/Análise de Crédito, Tomada de Decisão e Incerteza Inerente | UFG |
 | 2025 – 2026 | PIBIC(CNPq)/Compressão de Imagens via Decomposição em Valores Singulares (SVD) | UFG |
 
 Produção acadêmica completa e detalhada no [Currículo Lattes](https://lattes.cnpq.br/6837885816567736).
 
 ---
 
-## Competências
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=py,julia,js,git,github,vscode&theme=dark" alt="Tecnologias"/>
-
-</div>
 
 <br>
 
