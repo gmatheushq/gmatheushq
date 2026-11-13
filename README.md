@@ -1,6 +1,6 @@
 <div align="center">
 
-# Matheus Henrique
+# Matheus Henrique "Theus" Gomes
 
 **Matemática Aplicada  |  Modelagem  |  Ciência de Dados**
 
