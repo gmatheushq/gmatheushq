@@ -18,13 +18,10 @@ Graduando em Matemática Aplicada e Computacional pela Universidade Federal de G
 
 ---
 
-## Jogue Anakonda!
+## Anakonda. Clique para jogar
+<a href="https://gmatheushq.github.io/cobrinhaatt/?modo=humano"> <img src="cobrinha.gif" alt="IA jogando cobrinha. Clique para jogar" width="400"> </a>
 
-<a href="https://SEU-LINK-DO-JOGO">
-  <img src="cobrinha.gif" alt="Jogar Anakonda" width="400">
-</a>
-
-**[▶ Clique para jogar][(https://gmatheushq.github.io/cobrinhaatt/)]**
+▶ Jogar como humano · 🤖 Ver a IA jogando ao vivo
 
 ---
 
