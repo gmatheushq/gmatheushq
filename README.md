@@ -24,7 +24,7 @@ Graduando em Matemática Aplicada e Computacional pela Universidade Federal de G
   <img src="cobrinha.gif" alt="Jogar Anakonda" width="400">
 </a>
 
-**[▶ Clique para jogar]((https://gmatheushq.github.io/cobrinhaatt/))**
+**[▶ Clique para jogar][(https://gmatheushq.github.io/cobrinhaatt/)]**
 
 ---
 
