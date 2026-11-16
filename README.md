@@ -18,6 +18,16 @@ Graduando em Matemática Aplicada e Computacional pela Universidade Federal de G
 
 ---
 
+## Jogue Anakonda!
+
+<a href="https://SEU-LINK-DO-JOGO">
+  <img src="cobrinha.gif" alt="Jogar Anakonda" width="400">
+</a>
+
+**[▶ Clique para jogar](https://SEU-LINK-DO-JOGO)**
+
+---
+
 ## Projetos selecionados
 
 <table>
