@@ -18,17 +18,6 @@ Graduando em Matemática Aplicada e Computacional pela Universidade Federal de G
 
 ---
 
-## Anakonda
-Cobrinha treinada por Random Forest
-
-<a href="https://gmatheushq.github.io/cobrinhaatt/?modo=humano">
-  <img src="cobrinha.gif" alt="IA jogando cobrinha. Clique para jogar" width="400">
-</a>
-
-[▶ Jogar](https://gmatheushq.github.io/cobrinhaatt/?modo=humano) · [Assistir IA treinada](https://gmatheushq.github.io/cobrinhaatt/?modo=ia)
-
----
-
 ## Projetos selecionados
 
 <table>
