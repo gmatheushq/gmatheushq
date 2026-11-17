@@ -119,14 +119,16 @@ Produção acadêmica completa e detalhada no [Currículo Lattes](https://lattes
 
 <br>
 
-<div align="center">
-
-<a href="https://www.linkedin.com/in/matheus-henrique-7026072aa/">LinkedIn</a>  ·  <a href="mailto:SEU-EMAIL">matheusemog271@gmail.com</a>  ·  <a href="https://lattes.cnpq.br/6837885816567736">Lattes</a>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gmatheushq/gmatheushq/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gmatheushq/gmatheushq/output/pacman-contribution-graph.svg">
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/gmatheushq/gmatheushq/output/pacman-contribution-graph.svg">
 </picture>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/matheus-henrique-7026072aa/">LinkedIn</a>  ·  <a href="mailto:SEU-EMAIL">matheusemog271@gmail.com</a>  ·  <a href="https://lattes.cnpq.br/6837885816567736">Lattes</a>
+
+
 
 </div>
