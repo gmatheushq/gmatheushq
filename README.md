@@ -7,11 +7,12 @@
 Só para deixar aqui uns resultados de litros de água gastos com algumas LLM's
 
 <br>
----
+
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/pacman-contribution-graph/dist/pacman-contribution-graph.min.js" />
-  <img alt="Pac-Man contribution graph" src="https://cdn.jsdelivr.net/npm/pacman-contribution-graph/dist/pacman-contribution-graph.min.js" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gmatheushq/gmatheushq/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gmatheushq/gmatheushq/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/gmatheushq/gmatheushq/output/pacman-contribution-graph.svg">
 </picture>
 
 ---
